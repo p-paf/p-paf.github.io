@@ -1,18 +1,18 @@
 lecture:
 - lec: 'Lecture 1: Python eat Python- Problems with Recursion or Recursion with Problems?'
-  slide_link: Lec_1
+  slide_link:
   notes_link: 
   other_links:
 - lec: 'Lecture 2: Python Dance- Python Syntax and Solving Problems'
-  slide_link: Lec_2
+  slide_link:
   notes_link:  
   other_links:
 - lec: 'Lecture 3: Do the FP Shake- Lists and Trees in Haskell'
-  slide_link: Lec_3
+  slide_link:
   notes_link:  
   other_links:
 - lec: 'Lecture 4: Python Fangs- Challenging Recursion'
-  slide_link: Lec_4
+  slide_link:
   notes_link:  
   other_links:
 - lec: 'Lecture 5: You Haskell- FP Syntax in Haskell'
