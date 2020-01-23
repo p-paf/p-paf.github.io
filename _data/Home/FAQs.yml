@@ -1,15 +1,23 @@
 FAQ:
+  - question: So.. you're teaching Functional Programming with Python, right?
+    answer: Wrong. We're teaching Python, FP with Haskell, and the functional aspects of Python.
+  - question: Wait.. what's Haskell? Is it a programming language?
+    answer: Yes, a purely functional one.
+  - question: So is it possible to get a job in Functional Programming?
+    answer: Don't believe us, google that yourself.
+  - question: I did. It says there are high-paying jobs, and that FP is beautiful, but still the number of jobs is less.
+    answer: Yes, that's true and it's [changing fast](https://insights.stackoverflow.com/survey/2019#top-paying-technologies).
   - question: Are there any prerequisites for the course?
-    answer: There are no pre-requisites for this course.
-  - question: Is this course graded?
-    answer: Sorry, this course is considered as a part of graduation requirements. Students who successfully complete the course will be awarded with a certificate.
-  - question: Where can I know more about the course?
-    answer: You should check the Resources and Structure sections.
+    answer: None.
+  - question: Do I get graduation credits from this course?
+    answer: No, this course is not considered for graduation requirements. Students who successfully complete the course will be awarded with a certificate.
   - question: What softwares will I have to install?
-    answer: All software packages required for the course will be shared.
-  - question: How can I meet the instructors?
+    answer: All software required for the course will be shared in the first lecture.
+  - question: Will the lectures be recorded or streamed? I'm lazy.
+    answer: We're sorry, that's not possible. If you miss any lecture we will help you catch up, but try not to miss too many :)
+  - question: Where can I know more about the course?
+    answer: You should check the Resources and Structure sections, and the Course Handout.
+  - question: I wanna know even more.
+    answer: You gotta meet the instructors.
+  - question: How do I meet the instructors?
     answer: You can mail us or meet us during consultation hours. For online discussions we will be using a Slack workspace.
-  - question: Where can I find the lecture notes/slides?
-    answer: We will keep this website updated with all relevant material. It will also be updated on Nalanda.
-  - question: Will the lectures be recorded?
-    answer: We're sorry but recording the lecture is not possible. If you miss any lecture we will help you catch up, but try not to miss too many :).
