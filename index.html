@@ -4,68 +4,75 @@ layout: home
 
 <body>
     <div class='content' style="text-align: justify;">
-    A CSD course at BITS Pilani
-    <h1 id="main-title" style="font-weight: 800; font-size: 3em;">Programming:<br> Python And Functional</h1>
-    <br>
-    
-    <br>
-    <h1 id="Course">Course Description</h1>
-    <p>
-        Python is one of the most popular programming languages of the 21st century.
-        Functional programming (FP) is a way of thinking about software construction that
-        emphasizes functional purity and immutability. Demand for fp is steadily increasing.
-        According to <a href="https://insights.stackoverflow.com/survey/2019#top-paying-technologies" target="_blank">Stack
-        OverFlow Developer Survey 2019</a>, two of highest paying programming languages
-        emphasize the functional approach. The course covers the fundamental concepts of fp and make copious use of Python and idioms to create beautiful programs.
-    </p>
-    <hr>
-    <br><br>
-    <h1 class="standard-title" id="Instructors">Instructors</h1>
-    <br>
-    <div class="person col-md-12 col-sm-24 col-xs-24" style="margin-left:2vw">
-        <div class="person-thumbnail" style="margin-left:1vw">
-            <div class="person-avatar">
-                <span class="person-image" style="background: url('https://miro.medium.com/fit/c/256/256/1*tfFlBa3dUfCrraU-Hyp8zA.jpeg'); background-size:cover;"></span>
+        A CSD course at BITS Pilani
+        <h1 id="main-title" style="font-weight: 800; font-size: 3em;">Programming:<br> Python And Functional</h1>
+        <br>
+
+        <br>
+        <h1 id="Course">Course Description</h1>
+        <p>
+            Functional programming (FP) is a way of thinking about software construction that
+            emphasizes functional purity and immutability. Demand for fp is steadily increasing,
+            according to one Stack Overflow <a
+                href="https://insights.stackoverflow.com/survey/2019#top-paying-technologies" target="_blank">
+                survey</a>, two of highest paying programming languages emphasize the functional approach. The course
+            covers the fundamental concepts of fp and teaches programming in Python and Haskell. Python, while being one
+            of the
+            most popular programming languages of the 21st century, incorporates many fp concepts. Haskell
+            is a purely
+            fp language that is rising in popularity. Throughout the course we will use idioms from
+            both
+            languages to have fun with fp and create beautiful programmes.
+        </p>
+        <hr>
+        <br><br>
+        <h1 class="standard-title" id="Instructors">Instructors</h1>
+        <br>
+        <div class="person col-md-12 col-sm-24 col-xs-24" style="margin-left:2vw">
+            <div class="person-thumbnail" style="margin-left:1vw">
+                <div class="person-avatar">
+                    <span class="person-image"
+                        style="background: url('https://miro.medium.com/fit/c/256/256/1*tfFlBa3dUfCrraU-Hyp8zA.jpeg'); background-size:cover;"></span>
+                </div>
+            </div>
+            <div class="person-text">
+                <h2 class="person-name">Instructor<a href="https://github.com/twitu"> Ishan Bhanuka</a></h2>
+                <p><span>f2016075@pilani.bits-pilani.ac.in</span></p>
+                <p>Consultation Hours: Wed 6.30-7.30pm, SDET Lab</p>
+            </div>
+            <br><br><br><br><br><br>
+            <div class="head-people" style="margin-left:-1vw">
+                <ul>
+                    <li>
+                        <div class="person col-md-12 col-sm-24 col-xs-24">
+                            <div class="person-thumbnail">
+                                <div class="person-avatar">
+                                    <span class="person-image"
+                                        style="background: url('https://avatars3.githubusercontent.com/u/31892335?s=460&v=4'); background-size:cover;"></span>
+                                </div>
+                            </div>
+                            <div class="person-text">
+                                <h2 class="person-name">Instructor
+                                    <a href="https://github.com/twitu">Satvik Golechha</a>
+                                </h2>
+                                <p><span>f20170117@pilani.bits-pilani.ac.in</span></p>
+                                <p>Consultation Hours: Fri 6.30-7.30pm, SDET Lab</p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
-        <div class="person-text">
-            <h2 class="person-name">Instructor<a href="https://github.com/twitu"> Ishan Bhanuka</a></h2>
-        <p><span>f2016075@pilani.bits-pilani.ac.in</span></p>
-        <p>Consultation Hours: Wed 6.30-7.30pm, SDET Lab</p>
-        </div>
-    <br><br><br><br><br><br>
-    <div class="head-people" style="margin-left:-1vw">
-        <ul>
-            <li>
-                <div class="person col-md-12 col-sm-24 col-xs-24">
-                    <div class="person-thumbnail">
-                        <div class="person-avatar">
-                            <span class="person-image"
-                                style="background: url('https://avatars3.githubusercontent.com/u/31892335?s=460&v=4'); background-size:cover;"></span>
-                        </div>
-                    </div>
-                    <div class="person-text">
-                        <h2 class="person-name">Instructor
-                            <a href="https://github.com/twitu">Satvik Golechha</a>
-                        </h2>
-                        <p><span>f20170117@pilani.bits-pilani.ac.in</span></p>
-                        <p>Consultation Hours: Fri 6.30-7.30pm, SDET Lab</p>
-                    </div>
-                </div>
-            </li>
-        </ul>
-        </div>
-    </div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr><br>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <hr><br>
 
-    <h1 class="standard-title" id="FAQs">FAQs</h1>
-    <ul style="font-size:1.2em">
-        {% for item in site.data.Home.FAQs.FAQ %}
-        <br>
-        <li style="font-weight: 500; margin-left: -0.25vw;"> {{item.question}}</li>
-        <li style="color: rgb(120,120,120);"> - {{item.answer}}</li>
-        <br>
-        {% endfor %}
-    </ul> 
+        <h1 class="standard-title" id="FAQs">FAQs</h1>
+        <ul style="font-size:1.2em">
+            {% for item in site.data.Home.FAQs.FAQ %}
+            <br>
+            <li style="font-weight: 500; margin-left: -0.25vw;"> {{item.question}}</li>
+            <li style="color: rgb(120,120,120);"> - {{item.answer}}</li>
+            {% endfor %}
+        </ul>
     </div>
 </body>

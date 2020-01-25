@@ -6,7 +6,7 @@ FAQ:
   - question: So is it possible to get a job in Functional Programming?
     answer: Don't believe us, google that yourself.
   - question: I did. It says there are high-paying jobs, and that FP is beautiful, but still the number of jobs is less.
-    answer: Yes, that's true and it's [changing fast](https://insights.stackoverflow.com/survey/2019#top-paying-technologies).
+    answer: Yes, that's true and it's <a href="https://insights.stackoverflow.com/survey/2019#top-paying-technologies">changing fast</a>.
   - question: Are there any prerequisites for the course?
     answer: None.
   - question: Do I get graduation credits from this course?
