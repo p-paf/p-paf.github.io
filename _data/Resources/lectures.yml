@@ -2,7 +2,7 @@ lecture:
 - lec: 'Lecture 1: Python eat Python- Problems with Recursion or Recursion with Problems?'
   slide_link:
   notes_link: 
-  other_links:
+  other_links: https://github.com/p-paf/p-paf.github.io/blob/master/assets/slides/Module%201%20-%3E%20Recursion.ipynb
 - lec: 'Lecture 2: Python Dance- Python Syntax and Solving Problems'
   slide_link:
   notes_link:  
