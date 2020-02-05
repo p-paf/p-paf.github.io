@@ -1,7 +1,7 @@
 lecture:
 - lec: 'Lecture 1: Python eat Python- Problems with Recursion or Recursion with Problems?'
   slide_link:
-  notes_link: "../assets/slides/1-Recursion.html"
+  notes_link: "./slides/1-Recursion.html"
   other_links:
 - lec: 'Lecture 2: Python Dance- Python Syntax and Solving Problems'
   slide_link:
