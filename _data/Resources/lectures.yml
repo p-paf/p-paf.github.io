@@ -4,7 +4,7 @@ lecture:
   notes_link: 
   other_links:
 - lec: 'Lecture 2: Python Dance- Python Syntax and Solving Problems'
-  slide_link:
+  slide_link: "2-Python-Syntax.html"
   notes_link:  
   other_links:
 - lec: 'Lecture 3: Do the FP Shake- Lists and Trees in Haskell'
