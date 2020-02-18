@@ -15,8 +15,8 @@ lecture:
   slide_link:
   notes_link:  
   other_links:
-- lec: 'Lecture 5: You Haskell- FP Syntax in Haskell'
-  slide_link:
+- lec: 'Lecture 5: Dynamic Programming'
+  slide_link: "5-Dynamic-Prog.html"
   notes_link:  
   other_links:
 - lec: 'Lecture 6: Function is a function is a function- Functions in Haskell'
