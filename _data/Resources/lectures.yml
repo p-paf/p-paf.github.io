@@ -1,6 +1,7 @@
 lecture:
 - lec: 'Lecture 1: Python eat Python- Problems with Recursion or Recursion with Problems?'
   slide_link: "1-Recursion.html"
+  notes_link: "Homework-1.pdf"
 - lec: 'Lecture 2: Python Dance- Python Syntax and Solving Problems'
   slide_link: "2-Python-Syntax.html"
 - lec: 'Lecture 3: Do the FP Shake - Intro to FP'
