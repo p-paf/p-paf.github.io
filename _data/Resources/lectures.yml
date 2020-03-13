@@ -11,3 +11,5 @@ lecture:
   notes_link: "4-You Haskell.html"
 - lec: 'Lecture 5: Dynamic Programming'
   slide_link: "5-Dynamic-Prog.html"
+- lec: 'Lecture 6: 99 problems and the first assignment'
+  other_links: "https://github.com/p-paf/99problems"
