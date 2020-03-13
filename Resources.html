@@ -21,7 +21,10 @@ permalink: /Resources/
             <p> See <a href="{{site.url}}/{{site.baseurl}}/Structure">Structure</a> for more information.</p>
             <ul class="lists two-col animate-3" resource="homeworks">
                 {% for item in site.data.Resources.assign.assignments %}
-                <a href="../assets/assignments/{{item.link}}" target="_blank"><li>{{item.name}}</li></a>
+                    {% if item.link == %}
+                    {% else %}
+                    <a href="../assets/assignments/{{item.link}}" target="_blank"><li>{{item.name}}</li></a>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </p>
@@ -33,14 +36,16 @@ permalink: /Resources/
                     {% for item in site.data.Resources.lectures.lecture %}
                     <li>{{item.lec}}<br>
                         {% if item.slide_link ==  %}
-                        [Slides] 
                         {% else %}
                         <a href="../assets/slides/{{item.slide_link}}" target="_blank">[Slides]</a>
                         {% endif %}
                         {% if item.notes_link ==  %}
-                        [Notes]
                         {% else %}
                         <a href="../assets/notes/{{item.notes_link}}" target="_blank">[Notes]</a>
+                        {% endif %}
+                        {% if item.other_links ==  %}
+                        {% else %}
+                        <a href="{{item.other_links}}" target="_blank">[Other]</a>
                         {% endif %}
                     </li>
                     {% endfor %}
