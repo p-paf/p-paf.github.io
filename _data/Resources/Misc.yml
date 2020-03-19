@@ -25,3 +25,7 @@ misc:
     link: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Game%20Trees/Game%20Trees.html
   - topic: Minimax and Alpha Beta Pruning (Cornell Recitation)
     link: https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
+  - topic: Haskell Style Guide
+    link: https://github.com/p-paf/p-paf.github.io/blob/master/assets/style.md
+  - topic: Python Style Guide (PEP-8)
+    link: https://www.python.org/dev/peps/pep-0008/
