@@ -1,3 +1,5 @@
 resource: 
   - topic: Learn You a Haskell
     link: http://learnyouahaskell.com/chapters
+  - topic: Type Isomorphism in Haskell (Kwang's Blog)
+    link: https://kseo.github.io/posts/2016-12-25-type-isomorphism.html
