@@ -13,3 +13,6 @@ lecture:
   slide_link: "5-Dynamic-Prog.html"
 - lec: 'Lecture 6: 99 problems and the first assignment'
   other_links: "https://github.com/p-paf/99problems"
+- lec: 'Lecture 7: Making Types in Haskell'
+  notes_link: "7-Making Types in Haskell"
+  other_links: "https://github.com/p-paf/p-paf-lectures/tree/master/lec7"
