@@ -1,18 +1,25 @@
 lecture:
-- lec: 'Lecture 1: Python eat Python- Problems with Recursion or Recursion with Problems?'
+- lec: 'Lecture 1: Python eat Python: Problems with Recursion or Recursion with Problems?'
   slide_link: "1-Recursion.html"
   notes_link: "Homework-1.pdf"
-- lec: 'Lecture 2: Python Dance- Python Syntax and Solving Problems'
+- lec: 'Lecture 2: Python Dance: Python Syntax and Solving Problems'
   slide_link: "2-Python-Syntax.html"
 - lec: 'Lecture 3: Do the FP Shake - Intro to FP'
   slide_link: "3-Do the FP Shake.html"
   notes_link: "3-Do the FP Shake.html"
-- lec: 'Lecture 4: You Haskell - Haskell syntax'
+- lec: 'Lecture 4: You Haskell - Haskell Syntax'
   notes_link: "4-You Haskell.html"
 - lec: 'Lecture 5: Dynamic Programming'
   slide_link: "5-Dynamic-Prog.html"
-- lec: 'Lecture 6: 99 problems and the first assignment'
+- lec: 'Lecture 6: 99 Problems and Assignment 1'
   other_links: "https://github.com/p-paf/99problems"
 - lec: 'Lecture 7: Making Types in Haskell'
   notes_link: "7-Making Types in Haskell"
   other_links: "https://github.com/p-paf/p-paf-lectures/tree/master/lec7"
+- lec: 'Lecture 8: Currying and Higher Order Functions'
+  other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-8-a---currying"
+- lec: 'Lecture 9: Lazy Evaluation in Haskell'
+  other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-9---laziness"
+- lec: 'Lecture 10: Game Trees and the Minimax Algorithm"
+  other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-10---game-trees-and-minimax"
+  
