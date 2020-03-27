@@ -9,3 +9,5 @@ github_username:  p-paf
 theme: minima
 plugins:
   - jekyll-feed
+plugins:
+  - jekyll-seo-tag
