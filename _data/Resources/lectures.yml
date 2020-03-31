@@ -22,4 +22,6 @@ lecture:
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-9---laziness"
 - lec: 'Lecture 10: Game Trees and the Minimax Algorithm'
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-10---game-trees-and-minimax"
-  
+- lec: 'Lecture 11: Bread Butter Haskell - Maps and Filters'
+  notes_link: "11-Bread Butter Haskell.html"
+  other_links: "https://github.com/p-paf/p-paf-lectures/tree/master/lec11"
