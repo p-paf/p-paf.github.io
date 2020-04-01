@@ -25,3 +25,5 @@ lecture:
 - lec: 'Lecture 11: Bread Butter Haskell - Maps and Filters'
   notes_link: "11-Bread Butter Haskell.html"
   other_links: "https://github.com/p-paf/p-paf-lectures/tree/master/lec11"
+- lec: 'Lecture 12: IO and Competitive Programming'
+  other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lec12/lecture_12.md"
