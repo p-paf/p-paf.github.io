@@ -29,3 +29,7 @@ lecture:
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lec12/lecture_12.md"
 - lec: 'Lecture 13: Types, Tuples, and Ted (Doubts and Assignment 2)'
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lec13.md"
+- lec: 'Lecture 14: Classes in Python and Term Project'
+  other_links: "https://github.com/p-paf/term-project"
+- lec: 'Lecture 15: The Python Challenge (Fun Day Treasure Hunt!)'
+  notes_link: "15-FunDay.html"
