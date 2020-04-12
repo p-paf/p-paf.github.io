@@ -25,15 +25,15 @@ lecture:
 - lec: 'Lecture 11: Bread Butter Haskell - Maps and Filters'
   notes_link: "11-Bread Butter Haskell.html"
   other_links: "https://github.com/p-paf/p-paf-lectures/tree/master/lec11"
-  other_links: "https://drive.google.com/file/d/1LLwrKguiweYfhRTUMZSgZiwwXRWzrNg5/view?usp=sharing"
+  video_links: "https://drive.google.com/file/d/1LLwrKguiweYfhRTUMZSgZiwwXRWzrNg5/view?usp=sharing"
 - lec: 'Lecture 12: IO and Competitive Programming'
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lec12/lecture_12.md"
-  other_links: "https://drive.google.com/file/d/1m_QRs_exDZd7O8Bc55w8QRSgbiiE9r4n/view"
+  video_links: "https://drive.google.com/file/d/1m_QRs_exDZd7O8Bc55w8QRSgbiiE9r4n/view"
 - lec: 'Lecture 13: Types, Tuples, and Ted (Doubts and Assignment 2)'
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lec13.md"
-  other_links: "https://drive.google.com/file/d/1ZZR3QfsBWFNXDP4TX-Is4TfGn6uDXWaj/view?usp=sharing"
+  video_links: "https://drive.google.com/file/d/1ZZR3QfsBWFNXDP4TX-Is4TfGn6uDXWaj/view?usp=sharing"
 - lec: 'Lecture 14: Classes in Python and Term Project'
   other_links: "https://github.com/p-paf/term-project"
-  other_links: "https://drive.google.com/file/d/1fIgv0e5LEfuGO6PAuw_gsEO7cNL1fo_v/view"
+  video_links: "https://drive.google.com/file/d/1fIgv0e5LEfuGO6PAuw_gsEO7cNL1fo_v/view"
 - lec: 'Lecture 15: The Python Challenge (Fun Day Treasure Hunt!)'
   notes_link: "15-FunDay.html"

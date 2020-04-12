@@ -53,6 +53,10 @@ permalink: /Resources/
                         {% else %}
                         <a href="{{item.other_links}}" target="_blank">[Other]</a>
                         {% endif %}
+                        {% if item.video_links ==  %}
+                        {% else %}
+                        <a href="{{item.video_links}}" target="_blank">[Video]</a>
+                        {% endif %}
                     </li>
                     {% endfor %}
                 </ul>
