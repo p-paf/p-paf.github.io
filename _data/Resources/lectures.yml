@@ -37,3 +37,6 @@ lecture:
   video_links: "https://drive.google.com/file/d/1fIgv0e5LEfuGO6PAuw_gsEO7cNL1fo_v/view"
 - lec: 'Lecture 15: The Python Challenge (Fun Day Treasure Hunt!)'
   notes_link: "15-FunDay.html"
+- lec: 'Lecture 16: Classes in Python and the Term Project part 2'
+  other_links: "https://github.com/p-paf/term-project/tree/stage_2"
+  video_links: "https://drive.google.com/file/d/1UOkgP-AayLS0k-4QqTQOm4ZCgWejqusQ/view?usp=sharing"
