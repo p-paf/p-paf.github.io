@@ -1,0 +1,11 @@
+resource: 
+  - topic: Learn You a Haskell
+    link: http://learnyouahaskell.com/chapters
+  - topic: Type Isomorphism in Haskell (Kwang's Blog)
+    link: https://kseo.github.io/posts/2016-12-25-type-isomorphism.html
+  - topic: Theorems for free! (Philip Wadler, University of Glasgow)
+    link: http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C3D68EAD070872C2DFB0F503527A232E?doi=10.1.1.38.9875&rep=rep1&type=pdf
+  - topic: Python's Data Model (Docs)
+    link: https://docs.python.org/3/reference/datamodel.html?highlight=__str__#basic-customization
+  - topic: The Python Challenge (for the Fun-Day!)
+    link: http://www.pythonchallenge.com/

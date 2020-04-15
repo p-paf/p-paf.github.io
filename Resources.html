@@ -1,0 +1,70 @@
+---
+layout: home
+permalink: /Resources/
+---
+<!--Resources for students-->
+<main class="index-page" >
+    <section class="page-head ">
+        <div class="wrap">
+            <div class="head-decor">
+              <p class="head-subtitle">A CSD course at BITS Pilani</p>
+              <h1 class="head-title">Resources</h1>
+            </div>
+        </div>
+    </section>
+    <section class="standard-text ">
+        <div class="wrap">
+            <p>The primary resources for this course are the lecture slides, notebooks, and assignments on this page. For the latter part of the course,
+                the reading material provided is very important too. You can access the slides and homeworks individually through this page, or if you're 
+            interested in downloading/viewing all of them at one place, go to <a href="https://github.com/p-paf/p-paf-lectures">this</a> repository.</p>
+        </div>
+        <p>
+            <h2 class="standard-title" id="Assignments"><a href="#Assignments" >Assignments</a></h2>
+            <p> These assignments will be used for evaluation (see <a href="{{site.url}}/{{site.baseurl}}/Structure">Structure</a> for more information)
+                , but more importantly they are there for your own learning and self-evaluation. Make sure you start working well 
+        ahead of the deadlines, and feel free to take help if you're stuck. While submitting code, make sure that you adhere to
+        the <a href="https://github.com/p-paf/p-paf.github.io/blob/master/assets/style.md" >style guide</a> for Haskell, and <a href="https://www.python.org/dev/peps/pep-0008/" >PEP-8</a> for Python.</p>
+            <ul class="lists two-col animate-3" resource="homeworks">
+                {% for item in site.data.Resources.assign.assignments %}
+                    {% if item.link =='' %}
+                    {% else %}
+                    <a href="{{item.link}}" target="_blank"><li>{{item.name}}</li></a>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </p>
+        <br><hr><br>
+        <p>
+            <h2 class="standard-title" id="Slides"><a href="#Slides" >Lecture Slides</a></h2>
+            <p> Here you'll find the lecture slides/notes/homeworks (see <a href="{{site.Structure.path}}">structure</a>),
+    for the regular class hours, and links to reading material for the course.</p>
+                <ul >
+                    {% for item in site.data.Resources.lectures.lecture %}
+                    <li>{{item.lec}}<br>
+                        {% for element in item.resources %}
+                            <a href="{{element.resource.link}}" target="_blank">[{{element.resource.type}}]</a>
+                        {% endfor %}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </p>
+        <br><hr><br>
+        <div class="wrap">
+            <h2 class="standard-title" id="online"><a href="#online" >Online Resources</a></h2>
+            <ul style="list-style-type:square;">
+                {% for item in site.data.Resources.online.resource %}
+                <li><a href="{{item.link}}" target="_blank">{{item.topic}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <br><hr><br>
+        <div class="wrap">
+            <h2 class="standard-title" id="misclinks"><a href="#misclinks" >Misc Links</a></h2>
+            <ul style="list-style-type:square;">
+                {% for item in site.data.Resources.Misc.misc %}
+                <li><a href="{{item.link}}" target="_blank">{{item.topic}}</a></li>
+                {% endfor %}
+            </ul>    
+        </div>
+    </section>    
+</main>

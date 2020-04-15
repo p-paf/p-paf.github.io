@@ -1,0 +1,81 @@
+---
+layout: home
+---
+
+<body>
+    <div class='content' style="text-align: justify;">
+        A CSD course at BITS Pilani (Spring, 2020)
+        <h1 id="main-title" style="font-weight: 800; font-size: 3em;">Programming:<br> Python And Functional</h1>
+        <br>
+
+        <br>
+        <h1 id="Course">Course Description</h1>
+        <p>
+            Functional programming (FP) is a way of thinking about software construction that
+            emphasizes functional purity and immutability. Demand for FP is steadily increasing.
+            According to Stack Overflow's <a
+                href="https://insights.stackoverflow.com/survey/2019#top-paying-technologies" target="_blank">
+                survey</a>, a lot of highest paying programming languages emphasize the functional approach. The course
+            covers the fundamental concepts of FP and teaches programming in Python and Haskell. 
+            Haskell is a high-level, purely functional programming language with a strong static type system and elegant mathematical underpinnings. 
+            It is being used in industry by organizations such as Facebook, AT&T, and NASA, along with several financial firms.
+            Python, while being one of the most popular programming languages of the 21st century, incorporates many functional concepts, most of them inspired from Haskell. 
+            In the first half of the course, we will cover Python and Haskell Syntax and the basics of FP, while in the latter half, we will work
+            through assignments and understand various FP concepts like higher-order functions, monads, etc, and build a game playing 
+            AI bot, both in Python and Haskell as a final term project. 
+        </p>
+        <p>
+            Update March 14: Due to the Institute shutdown till March 31st, we will be proceeding through reading material and discussion sessions. The schedule for assignments, however, remains the same.
+        </p>
+        <hr>
+        <br><br>
+        <h1 class="standard-title" id="Instructors">Instructors</h1>
+        <br>
+        <div class="person col-md-12 col-sm-24 col-xs-24" style="margin-left:2vw">
+            <div class="person-thumbnail" style="margin-left:1vw">
+                <div class="person-avatar">
+                    <span class="person-image"
+                        style="background: url('https://miro.medium.com/fit/c/256/256/1*tfFlBa3dUfCrraU-Hyp8zA.jpeg'); background-size:cover;"></span>
+                </div>
+            </div>
+            <div class="person-text">
+                <h2 class="person-name">Instructor<a href="https://github.com/twitu"> Ishan Bhanuka</a></h2>
+                <p><span>f2016075@pilani.bits-pilani.ac.in</span></p>
+                <p>Consultation Hours: Wed 6.30-7.30pm, SDET Lab</p>
+            </div>
+            <br><br><br><br><br><br>
+            <div class="head-people" style="margin-left:-1vw">
+                <ul>
+                    <li>
+                        <div class="person col-md-12 col-sm-24 col-xs-24">
+                            <div class="person-thumbnail">
+                                <div class="person-avatar">
+                                    <span class="person-image"
+                                        style="background: url('https://avatars3.githubusercontent.com/u/31892335?s=460&v=4'); background-size:cover;"></span>
+                                </div>
+                            </div>
+                            <div class="person-text">
+                                <h2 class="person-name">Instructor
+                                    <a href="https://sites.google.com/view/satvik/home">Satvik Golechha</a>
+                                </h2>
+                                <p><span>f20170117@pilani.bits-pilani.ac.in</span></p>
+                                <p>Consultation Hours: Fri 6.30-7.30pm, SDET Lab</p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <hr><br>
+
+        <h1 class="standard-title" id="FAQs">FAQs</h1>
+        <ul style="font-size:1.2em">
+            {% for item in site.data.Home.FAQs.FAQ %}
+            <br>
+            <li style="font-weight: 500; margin-left: -0.25vw;"> {{item.question}}</li>
+            <li style="color: rgb(120,120,120);"> - {{item.answer}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>

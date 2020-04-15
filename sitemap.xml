@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://p-paf.github.io/</loc>
+  <lastmod>2020-03-27T12:52:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/</loc>
+  <lastmod>2020-03-27T12:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/Calendar/</loc>
+  <lastmod>2020-03-27T12:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/Structure/</loc>
+  <lastmod>2020-03-27T12:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/Resources/</loc>
+  <lastmod>2020-03-27T12:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/course_handout.pdf</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/assignments/exercise-1-99-problems.pdf</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/assignments/assignment-2.pdf</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/slides/1-Recursion.html</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/notes/Homework-1.pdf</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/slides/2-Python-Syntax.html</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/slides/3-Do%20the%20FP%20Shake.html</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/notes/3-Do%20the%20FP%20Shake.html</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/notes/4-You%20Haskell.html</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/slides/5-Dynamic-Prog.html</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://p-paf.github.io/p-paf.github.io/assets/notes/7-Making%20Types%20in%20Haskell</loc>
+  <lastmod>2020-03-27T12:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

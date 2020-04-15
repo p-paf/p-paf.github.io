@@ -1,0 +1,13 @@
+title: p:paf
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+ 
+baseurl: "p-paf.github.io" # the subpath of your site, e.g. /blog
+url: "https://p-paf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  p-paf
+
+theme: minima
+plugins:
+  - jekyll-feed
+plugins:
+  - jekyll-seo-tag

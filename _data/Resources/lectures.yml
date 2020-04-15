@@ -1,0 +1,109 @@
+lecture:
+  - lec: 'Lecture 1: Python eat Python: Problems with Recursion or Recursion with Problems?'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/slides/1-Recursion.html'
+      - resource:
+          type: 'Notes'
+          link: '../assets/notes/Homework-1.pdf'
+  - lec: 'Lecture 2: Python Dance: Python Syntax and Solving Problems'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/slides/2-Python-Syntax.html'
+  - lec: 'Lecture 3: Do the FP Shake - Intro to FP'
+    resources:  
+      - resource:
+          type: 'Slides'
+          link: '../assets/slides/3-Do the FP Shake.html'
+      - resource:
+          type: 'Notes'
+          link: '../assets/notes/3-Do the FP Shake.html'
+  - lec: 'Lecture 4: You Haskell - Haskell Syntax'
+    resources:  
+      - resource:
+          type: 'Notes'
+          link: '../assets/notes/4-You Haskell.html'
+  - lec: 'Lecture 5: Dynamic Programming'
+    resources:  
+      - resource:
+          type: 'Slides'
+          link: '../assets/slides/5-Dynamic-Prog.html'
+  - lec: 'Lecture 6: 99 Problems and Assignment 1'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/99problems'
+  - lec: 'Lecture 7: Making Types in Haskell'
+    resources:  
+    - resource:
+        type: 'Notes'
+        link: '../assets/notes/7-Making Types in Haskell'
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/p-paf-lectures/tree/master/lec7'
+  - lec: 'Lecture 8: Currying and Higher Order Functions'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-8-a---currying'
+  - lec: 'Lecture 9: Lazy Evaluation in Haskell'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-9---laziness'
+  - lec: 'Lecture 10: Game Trees and the Minimax Algorithm'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-10---game-trees-and-minimax'
+  - lec: 'Lecture 11: Bread Butter Haskell - Maps and Filters'
+    resources:  
+    - resource:
+        type: 'Notes'
+        link: '../assets/notes/11-Bread Butter Haskell.html'
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/p-paf-lectures/tree/master/lec11'
+    - resource:
+        type: 'Video'
+        link: 'https://drive.google.com/file/d/1LLwrKguiweYfhRTUMZSgZiwwXRWzrNg5/view?usp=sharing'
+  - lec: 'Lecture 12: IO and Competitive Programming'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/p-paf-lectures/blob/master/lec12/lecture_12.md'
+    - resource:
+        type: 'Video'
+        link: 'https://drive.google.com/file/d/1m_QRs_exDZd7O8Bc55w8QRSgbiiE9r4n/view'
+  - lec: 'Lecture 13: Types, Tuples, and Ted (Doubts and Assignment 2)'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/p-paf-lectures/blob/master/lec13.md'
+    - resource:
+        type: 'Video'
+        link: 'https://drive.google.com/file/d/1ZZR3QfsBWFNXDP4TX-Is4TfGn6uDXWaj/view?usp=sharing'
+  - lec: 'Lecture 14: Classes in Python and Term Project'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/term-project'
+    - resource:
+        type: 'Video'
+        link: 'https://drive.google.com/file/d/1fIgv0e5LEfuGO6PAuw_gsEO7cNL1fo_v/view'
+  - lec: 'Lecture 15: The Python Challenge (Fun Day Treasure Hunt!)'
+    resources:  
+    - resource:
+        type: 'Notes'
+        link: '../assets/notes/15-FunDay.html'
+  - lec: 'Lecture 16: Classes in Python and the Term Project part 2'
+    resources:  
+    - resource:
+        type: 'Other Links'
+        link: 'https://github.com/p-paf/term-project/tree/stage_2'
+    - resource:
+        type: 'Video'
+        link: 'https://drive.google.com/file/d/1UOkgP-AayLS0k-4QqTQOm4ZCgWejqusQ/view?usp=sharing'
+
