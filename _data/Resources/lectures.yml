@@ -40,3 +40,5 @@ lecture:
 - lec: 'Lecture 16: Classes in Python and the Term Project part 2'
   other_links: "https://github.com/p-paf/term-project/tree/stage_2"
   video_links: "https://drive.google.com/file/d/1UOkgP-AayLS0k-4QqTQOm4ZCgWejqusQ/view?usp=sharing"
+- lec: 'Lecture 17: The Universality and Expressiveness of Fold'
+  notes_link: "17_fold-and-behold.html"
