@@ -24,7 +24,7 @@ lecture:
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lectures8-10/lectures8-10.md#lecture-10---game-trees-and-minimax"
 - lec: 'Lecture 11: Bread Butter Haskell - Maps and Filters'
   notes_link: "11-Bread Butter Haskell.html"
-  other_links: "https://github.com/p-paf/p-paf-lectures/tree/master/lec11"
+  code_links: "https://github.com/p-paf/p-paf-lectures/tree/master/lec11"
   video_links: "https://drive.google.com/file/d/1LLwrKguiweYfhRTUMZSgZiwwXRWzrNg5/view?usp=sharing"
 - lec: 'Lecture 12: IO and Competitive Programming'
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lec12/lecture_12.md"
@@ -33,16 +33,16 @@ lecture:
   other_links: "https://github.com/p-paf/p-paf-lectures/blob/master/lec13.md"
   video_links: "https://drive.google.com/file/d/1ZZR3QfsBWFNXDP4TX-Is4TfGn6uDXWaj/view?usp=sharing"
 - lec: 'Lecture 14: Classes in Python and Term Project'
-  other_links: "https://github.com/p-paf/term-project"
+  code_links: "https://github.com/p-paf/term-project"
   video_links: "https://drive.google.com/file/d/1fIgv0e5LEfuGO6PAuw_gsEO7cNL1fo_v/view"
 - lec: 'Lecture 15: The Python Challenge (Fun Day Treasure Hunt!)'
   notes_link: "15-FunDay.html"
 - lec: 'Lecture 16: Classes in Python and the Term Project part 2'
-  other_links: "https://github.com/p-paf/term-project/tree/stage_2"
+  code_links: "https://github.com/p-paf/term-project/tree/stage_2"
   video_links: "https://drive.google.com/file/d/1UOkgP-AayLS0k-4QqTQOm4ZCgWejqusQ/view?usp=sharing"
 - lec: 'Lecture 17: The Universality and Expressiveness of Fold'
   notes_link: "17_fold-and-behold.html"
   video_links: "https://drive.google.com/file/d/1XBbL90TzSgjdWt5WySR9jZ5c83YC_gvg/view"
 - lec: 'Lecture 18: Python and the Term Project part 3'
-  other_links: "https://github.com/p-paf/term-project/tree/stage_3"
+  code_links: "https://github.com/p-paf/term-project/tree/stage_3"
   video_links: "https://drive.google.com/file/d/1IR9xOkrPBXfye9A2rA5rddmeHVWj3irt/view?usp=sharing"
