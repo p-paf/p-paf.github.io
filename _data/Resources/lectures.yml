@@ -46,3 +46,6 @@ lecture:
 - lec: 'Lecture 18: Python and the Term Project part 3'
   code_links: "https://github.com/p-paf/term-project/tree/stage_3"
   video_links: "https://drive.google.com/file/d/1IR9xOkrPBXfye9A2rA5rddmeHVWj3irt/view?usp=sharing"
+- lec: 'Lecture 19: QuickSort, Correctness Proofs, and the class Ord'
+  notes_link: "https://github.com/p-paf/p-paf-lectures/blob/master/lec13.md"
+  video_links: "https://drive.google.com/file/d/1kdF-AxHFeUZsRBHAfEp3DeDakNMnkm6g/view"
